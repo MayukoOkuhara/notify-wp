@@ -8,7 +8,7 @@ Version: 1.0.0
 Author URI: https://ntfy.jp/
 */
 
-ini_set( 'display_errors', 1 );
+//ini_set( 'display_errors', 1 );
 
 require_once("inc/api.class.php");
 require_once("inc/plugin.class.php");
