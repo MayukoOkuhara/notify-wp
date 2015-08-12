@@ -1,8 +1,8 @@
 <?php
 
 class Notify_API {
-//	private $api_url = "https://ntfy.jp/api/";
- 	private $api_url = "http://localhost:3000/api/";
+	private $api_url = "https://ntfy.jp/api/";
+// 	private $api_url = "http://localhost:3000/api/";
 	private $api_version = "v1";
 	public $notification_token;
 

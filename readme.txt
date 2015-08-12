@@ -8,7 +8,7 @@ Stable tag: 1.0.0
 License: The MIT License
 License URI: http://opensource.org/licenses/MIT
 
-This plugin sends notifications to any notify.jp when an event triggered in WordPress.
+This plugin sends notifications to any ntfy.jp when an event triggered in WordPress.
 
 == Description ==
 
