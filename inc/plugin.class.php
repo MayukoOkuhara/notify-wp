@@ -69,8 +69,6 @@ class Notify_Plugin {
 	}
 
 	public function notify_plugin_admin_styles() {
-		// wp_enqueue_style('bootstrap-for-notify', plugins_url('css/bootstrap-wp.min.css', dirname(__FILE__)));
-		// wp_enqueue_style('bootstrap-for-notify', plugins_url('css/bootstrap.min.css', dirname(__FILE__)));
 		wp_enqueue_style('notify-opensans-css', 'http://fonts.googleapis.com/css?family=Open+Sans:400,700,300');
 		wp_enqueue_style('notify-style-css', plugins_url('css/style.css', dirname(__FILE__)));
 	}
