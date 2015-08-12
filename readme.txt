@@ -12,7 +12,7 @@ This plugin sends notifications to any notify.jp when an event triggered in Word
 
 == Description ==
 
-You can contribute to this project on [GitHub](https://github.com/linkillhz/notify-wordpress "Slack WordPress Integration"). **And yes you can send your new feature requests to [here](https://github.com/linkillhz/notify-wordpress/issues)**.    
+You can contribute to this project on [GitHub](https://github.com/linkillhz/notify-wordpress "notify WordPress"). **And yes you can send your new feature requests to [here](https://github.com/linkillhz/notify-wordpress/issues)**.    
 
 This plugin sends notifications when
 
