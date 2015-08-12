@@ -1,7 +1,7 @@
 === notify for WordPress ===
 Contributors: Shunsuke Hayashi
 Donate link: 
-Tags: notify,api,notification,team
+Tags: ntfy.jp,notify,api,notification
 Requires at least: 3.6.1
 Tested up to: 4.2.2
 Stable tag: 1.0.0
