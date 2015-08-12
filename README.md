@@ -1,4 +1,4 @@
-#![notify] <small>for WordPress</small>
+#notify <small>for WordPress</small>
 
 
 # FEATURES
