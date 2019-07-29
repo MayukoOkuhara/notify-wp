@@ -2,6 +2,7 @@
 テスト
 ブランチをのばす
 のびない
+ブランチのびてください
 === notify-wp ===
 Contributors: Shunsuke Hayashi
 Donate link:
