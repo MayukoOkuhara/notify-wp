@@ -1,5 +1,6 @@
 俊輔さん作プラグイン
 テスト
+ブランチをのばす
 === notify-wp ===
 Contributors: Shunsuke Hayashi
 Donate link:
