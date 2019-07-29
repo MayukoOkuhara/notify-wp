@@ -1,6 +1,7 @@
+俊輔さん作プラグイン
 === notify-wp ===
 Contributors: Shunsuke Hayashi
-Donate link: 
+Donate link:
 Tags: ntfy.jp,notify,api,notification
 Requires at least: 3.6.1
 Tested up to: 4.2.2
@@ -10,7 +11,7 @@ License URI: http://opensource.org/licenses/MIT
 
 通知共有Webサービス「notify」と連携することができるプラグインです。
 
-== Description ==    
+== Description ==
 
 WordPressで新規投稿すると、notify（https://ntfy.jp）上の通知を自動的に送信することができます。
 RSSリーダーなんてもう使わない読者のために、サイトの更新を通知しましょう。
@@ -21,7 +22,7 @@ notifyの詳細についてはこちらをごらんください。https://ntfy.j
  * [Shunsuke Hayashi](http://kokonotsu.net)
 
 = CONTRIBUTORS =
- 
+
 == Installation ==
 
 1. [ntfy.jp](https://ntfy.jp/sender/sign_in "New notify account") でアカウントを作成してください
