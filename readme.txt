@@ -1,4 +1,6 @@
 俊輔さん作プラグイン
+マスターを修正
+ブランチのびるか
 === notify-wp ===
 Contributors: Shunsuke Hayashi
 Donate link:
