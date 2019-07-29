@@ -1,4 +1,5 @@
 俊輔さん作プラグイン
+テスト
 === notify-wp ===
 Contributors: Shunsuke Hayashi
 Donate link:
